@@ -1,4 +1,6 @@
-### Hi there 👋
+### [Hi there 👋](https://www.youtube.com/watch?v=WnRrPqgKBS0)
+
+i basically do the same as [this guy](https://github.com/RoyTheunissen) but, like, 70% as good
 
 <!--
 **brunomikoski/brunomikoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
