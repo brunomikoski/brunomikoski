@@ -37,6 +37,16 @@
 </p>
 
 
+<p>
+    <h3><i>Here's some things about me</i></h3>
+    <ul>
+        <li>🔭 I’m currently working as a Principal Software Engieneer at [Lockwood-Publishing](https://lockwoodpublishing.com/) </li>
+        <li>👨‍💻 Some of what I do appears on https://www.tnrd.net</li>
+        <li>📫 You can shoot me a msg at <b>hello@tnrd.net</b></li>
+    </ul>
+</p>
+
+
 
 
 
