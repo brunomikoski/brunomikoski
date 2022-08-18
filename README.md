@@ -99,6 +99,7 @@
 | More on                                                 | <a href="https://www.brunomikoski.com">www.brunomikoski.com</a>                                                                                                                                                                                                                                                                                |
 
  
+ ![](https://komarev.com/ghpvc/?username=brunomikoski&style=flat-square)
 
 
 
