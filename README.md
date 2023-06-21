@@ -56,7 +56,7 @@
 <p>
     <h3><i>Here's some things about me</i></h3>
     <ul>
-        <li>🔭 I’m currently working as a Principal Software Engineer at <a href="https://lockwoodpublishing.com/">Lockwood-Publishing</a> </li>
+        <li>🔭 I’m currently working as a Lead Developer at <a href="https://www.bossastudios.com/">Bossa Studios</a> </li>
         <li>👨‍💻 I'm originally from Brazil 🇧🇷 living in Portugal 🇵🇹</li>
         <li>🛠️ I develop a bunch of game dev tools on my free time</li>
         <li>🏭 I have co-founded 2 game studios <a href="https://vimeo.com/7823718">99ft Jetpack</a> and <a href="https://www.youtube.com/watch?v=uexu5nklWWw">Monster Juice</a> </li>
@@ -96,7 +96,7 @@
 | <img src="projects/avakin.png" width=50 height=50>      | <a href="https://play.google.com/store/apps/details?id=com.lockwoodpublishing.avakinlife"><img alt="Android" src="icons8-android-os-50.png" width="40" height="40" /></a>  <a href="https://apps.apple.com/us/app/avakin-life-3d-avatar-creator/id740737088"><img alt="iOS" src="icons8-apple-logo-50.png" width="40" height="40" /> </a>      |
 | <img src="projects/8-ball-pool.png" width=50 height=50> | <a href="https://play.google.com/store/apps/details?id=games.onebutton.eightballpooltrickshots&hl=en&gl=US"><img alt="Android" src="icons8-android-os-50.png" width="40" height="40" /></a>  <a href="https://apps.apple.com/us/app/pool-trickshots/id1550606748"><img alt="iOS" src="icons8-apple-logo-50.png" width="40" height="40" /> </a> |
 | <img src="projects/good-job.jpeg" width=50 height=50>   | <a href="https://www.nintendo.com/pt-br/store/products/good-job-switch/"><img alt="Nintendo Switch" src="icons8-nintendo-switch-50.png" width="40" height="40" /></a>                                                                                                                                                                          |
-| More on                                                 | <a href="https://www.brunomikoski.com">www.brunomikoski.com</a>                                                                                                                                                                                                                                                                                |
+| More on                                                 | <a href="https://brunomikoski.myportfolio.com/">brunomikoski.myportfolio.com</a>                                                                                                                                                                                                                                                                                |
 
  
  ![](https://komarev.com/ghpvc/?username=brunomikoski&style=flat-square)
