@@ -62,6 +62,7 @@
         <li>🏭 I have co-founded 2 game studios <a href="https://vimeo.com/7823718">99ft Jetpack</a> and <a href="https://www.youtube.com/watch?v=uexu5nklWWw">Monster Juice</a> </li>
         <li>📫 You can shoot me a msg at <b>bruno.mikoski@gmail.com</b></li>
         <li>💎 I really like match 3 games</li>
+        <li>💻 Previously at <a href="https://twitter.com/moongamestudios">@MoonGameStudios</a> <a href="https://lockwoodpublishing.com/">@Lockwood Publishing</a> <a href="https://paladinstudios.com/">@PaladinStudios</a> and more :D </li>
     </ul>
 </p>
 
