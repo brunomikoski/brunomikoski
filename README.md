@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Mikoski</h1>
-<h3 align="center">I have been converting 🍕 into 🕹 in the past 15 years. </h3>
+<h3 align="center">I have been converting 🍕 into 🕹 in the past 18 years. </h3>
 
 
 <p align="center">
