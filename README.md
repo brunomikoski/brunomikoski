@@ -90,6 +90,18 @@
   <img align="center" src="./profile/pin-SceneKeeper.svg" alt="SceneKeeper" />
 </a>
 
+<br>
+<br>
+<a href="https://github.com/brunomikoski/ServiceLocator">
+  <img align="center" src="./profile/pin-ServiceLocator.svg" alt="ServiceLocator" />
+</a>
+
+<br>
+<br>
+<a href="https://github.com/brunomikoski/UIManager">
+  <img align="center" src="./profile/pin-UIManager.svg" alt="UIManager" />
+</a>
+
 <h2 align="center">🕹 Latest Projects 🕹</h2>
 
 | Project                                                                    | Title                      | Platforms                                                                                                                                                                                                                                                                                         |
