@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunomikoski&show_icons=tru&theme=dracula" />
+  <img align="center" src="./profile/stats.svg" alt="Bruno Mikoski's GitHub stats" />
 </p>
 
 
@@ -70,24 +70,24 @@
 <h2 align="center">✨ Tools I'm most proud of ✨</h2>
 
 <a href="https://github.com/brunomikoski/ScriptableObjectCollection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomikoski&repo=ScriptableObjectCollection&theme=dracula" />
+  <img align="center" src="./profile/pin-ScriptableObjectCollection.svg" alt="ScriptableObjectCollection" />
 </a>
 <br>
 <br>
 <a href="https://github.com/brunomikoski/Animation-Sequencer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomikoski&repo=Animation-Sequencer&theme=dracula" />
+  <img align="center" src="./profile/pin-Animation-Sequencer.svg" alt="Animation-Sequencer" />
 </a>
 
 <br>
 <br>
 <a href="https://github.com/brunomikoski/SpriteAuditor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomikoski&repo=SpriteAuditor&theme=dracula" />
+  <img align="center" src="./profile/pin-SpriteAuditor.svg" alt="SpriteAuditor" />
 </a>
 
 <br>
 <br>
-<a href="https://github.com/brunomikoski/SpriteAuditor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomikoski&repo=SceneKeeper&theme=dracula" />
+<a href="https://github.com/brunomikoski/SceneKeeper">
+  <img align="center" src="./profile/pin-SceneKeeper.svg" alt="SceneKeeper" />
 </a>
 
 <h2 align="center">🕹 Latest Projects 🕹</h2>
