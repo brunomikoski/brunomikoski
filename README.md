@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Mikoski</h1>
-<h3 align="center">I have been converting 🍕 into 🕹 in the past 18 years. </h3>
+<h3 align="center">I have been converting 🍕 into 🕹 for the past 18 years.</h3>
 
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 
-<p align="center">Most of my works are related to this</p>
+<p align="center">Most of my work is related to this</p>
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="icons8-android-os-50.png">
@@ -43,6 +43,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="icons8-nintendo-switch-50.png">
   <source media="(prefers-color-scheme: light)" srcset="icons8-nintendo-switch-50-dark.png">
+  <img alt="Nintendo Switch" src="icons8-nintendo-switch-50.png" width="40" height="40" />
 </picture>
 </p>
 
@@ -53,18 +54,18 @@
 <a href="https://www.linkedin.com/in/brunomikoski"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<p>
-    <h3><i>Here's some things about me</i></h3>
+<div>
+    <h3><i>Here are some things about me</i></h3>
     <ul>
-        <li>🔭 I’m currently working as a Lead Developer at <a href="https://www.bossastudios.com/">Bossa Studios</a> </li>
+        <li>🔭 I’m currently working as a Lead Developer at <a href="https://www.bossastudios.com/">Bossa Studios</a></li>
         <li>👨‍💻 I'm originally from Brazil 🇧🇷 living in Portugal 🇵🇹</li>
-        <li>🛠️ I develop a bunch of game dev tools on my free time</li>
+        <li>🛠️ I develop a bunch of game dev tools in my free time</li>
         <li>🏭 I have co-founded 2 game studios <a href="https://vimeo.com/7823718">99ft Jetpack</a> and <a href="https://www.youtube.com/watch?v=uexu5nklWWw">Monster Juice</a> </li>
         <li>📫 You can shoot me a msg at <b>bruno.mikoski@gmail.com</b></li>
         <li>💎 I really like match 3 games</li>
-        <li>💻 Previously at <a href="https://twitter.com/moongamestudios">@MoonGameStudios</a> <a href="https://lockwoodpublishing.com/">@Lockwood Publishing</a> <a href="https://paladinstudios.com/">@PaladinStudios</a> and more :D </li>
+        <li>💻 Previously at <a href="https://twitter.com/moongamestudios">@MoonGameStudios</a>, <a href="https://lockwoodpublishing.com/">Lockwood Publishing</a>, <a href="https://paladinstudios.com/">@PaladinStudios</a>, and more :D</li>
     </ul>
-</p>
+</div>
 
 
 <h2 align="center">✨ Tools I'm most proud of ✨</h2>
@@ -109,11 +110,9 @@
 | <img src="projects/batman.png" width="100" height="100" />                 | Batman: Arkham Shadow      | <a href="https://www.meta.com/en-gb/experiences/batman-arkham-shadow/3551691271620960/"><img alt="Quest" src="vr-glasses.png" width="40" height="40" /></a>                                                                                                                                       |
 | <img src="projects/no-rest-for-the-wicked.jpg" width="100" height="100" /> | No Rest for the Wicked     | <a href="https://store.steampowered.com/app/1371980/No_Rest_for_the_Wicked/"><img alt="Steam" src="computer.png" width="40" height="40" /></a>                                                                                                                                                    |
 | <img src="projects/good-job.jpeg" width="100" height="100" />              | Good Job!                  | <a href="https://www.nintendo.com/pt-br/store/products/good-job-switch/"><img alt="Nintendo Switch" src="icons8-nintendo-switch-50.png" width="40" height="40" /></a>                                                                                                                             |
-| More on                                                                    |                            | <a href="https://portifolio.brunomikoski.com/">portifolio.brunomikoski.com</a>                                                                                                                                                                                                                    |
+| More                                                                       |                            | <a href="https://portfolio.brunomikoski.com/">portfolio.brunomikoski.com</a>                                                                                                                                                                                                                      |
 
-
- 
- ![](https://komarev.com/ghpvc/?username=brunomikoski&style=flat-square)
+![](https://komarev.com/ghpvc/?username=brunomikoski&style=flat-square)
 
 
 
