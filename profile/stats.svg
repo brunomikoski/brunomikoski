@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Bruno Mikoski's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 3001, Total Commits  (last year) : 193, Total PRs: 194, Total Issues: 22, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 3000, Total Commits  (last year) : 193, Total PRs: 194, Total Issues: 22, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 42.36059392576062;
+        stroke-dashoffset: 42.36104406467828;
       }
     }
   
